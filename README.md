@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Mambinge/zimbabwe-provinces-map.git
+   git clone https://github.com/Mambinge/map-svg.git
     ```
 2. **Navigate to the project folder:**
     ```bash
